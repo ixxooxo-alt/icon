@@ -1,0 +1,674 @@
+[
+  {
+    "group_name": "国外默认",
+    "group_kind": "select",
+    "icon_design": "国外默认",
+    "original_file": "originals/国外默认.png",
+    "file_512px": "512px/国外默认.png",
+    "file_256px": "256px/国外默认.png"
+  },
+  {
+    "group_name": "OpenAI",
+    "group_kind": "select",
+    "icon_design": "OpenAI",
+    "original_file": "originals/OpenAI.png",
+    "file_512px": "512px/OpenAI.png",
+    "file_256px": "256px/OpenAI.png"
+  },
+  {
+    "group_name": "Claude",
+    "group_kind": "select",
+    "icon_design": "Claude",
+    "original_file": "originals/Claude.png",
+    "file_512px": "512px/Claude.png",
+    "file_256px": "256px/Claude.png"
+  },
+  {
+    "group_name": "Grok",
+    "group_kind": "select",
+    "icon_design": "Grok",
+    "original_file": "originals/Grok.png",
+    "file_512px": "512px/Grok.png",
+    "file_256px": "256px/Grok.png"
+  },
+  {
+    "group_name": "Google AI",
+    "group_kind": "select",
+    "icon_design": "Google AI",
+    "original_file": "originals/Google AI.png",
+    "file_512px": "512px/Google AI.png",
+    "file_256px": "256px/Google AI.png"
+  },
+  {
+    "group_name": "Copilot",
+    "group_kind": "select",
+    "icon_design": "Copilot",
+    "original_file": "originals/Copilot.png",
+    "file_512px": "512px/Copilot.png",
+    "file_256px": "256px/Copilot.png"
+  },
+  {
+    "group_name": "Apple AI",
+    "group_kind": "select",
+    "icon_design": "Apple AI",
+    "original_file": "originals/Apple AI.png",
+    "file_512px": "512px/Apple AI.png",
+    "file_256px": "256px/Apple AI.png"
+  },
+  {
+    "group_name": "其他 AI",
+    "group_kind": "select",
+    "icon_design": "其他 AI",
+    "original_file": "originals/其他 AI.png",
+    "file_512px": "512px/其他 AI.png",
+    "file_256px": "256px/其他 AI.png"
+  },
+  {
+    "group_name": "YouTube",
+    "group_kind": "select",
+    "icon_design": "YouTube",
+    "original_file": "originals/YouTube.png",
+    "file_512px": "512px/YouTube.png",
+    "file_256px": "256px/YouTube.png"
+  },
+  {
+    "group_name": "Netflix",
+    "group_kind": "select",
+    "icon_design": "Netflix",
+    "original_file": "originals/Netflix.png",
+    "file_512px": "512px/Netflix.png",
+    "file_256px": "256px/Netflix.png"
+  },
+  {
+    "group_name": "Disney+",
+    "group_kind": "select",
+    "icon_design": "Disney+",
+    "original_file": "originals/Disney+.png",
+    "file_512px": "512px/Disney+.png",
+    "file_256px": "256px/Disney+.png"
+  },
+  {
+    "group_name": "Max",
+    "group_kind": "select",
+    "icon_design": "Max",
+    "original_file": "originals/Max.png",
+    "file_512px": "512px/Max.png",
+    "file_256px": "256px/Max.png"
+  },
+  {
+    "group_name": "Prime Video",
+    "group_kind": "select",
+    "icon_design": "Prime Video",
+    "original_file": "originals/Prime Video.png",
+    "file_512px": "512px/Prime Video.png",
+    "file_256px": "256px/Prime Video.png"
+  },
+  {
+    "group_name": "Hulu US",
+    "group_kind": "select",
+    "icon_design": "Hulu US",
+    "original_file": "originals/Hulu US.png",
+    "file_512px": "512px/Hulu US.png",
+    "file_256px": "256px/Hulu US.png"
+  },
+  {
+    "group_name": "Hulu Japan",
+    "group_kind": "select",
+    "icon_design": "Hulu Japan",
+    "original_file": "originals/Hulu Japan.png",
+    "file_512px": "512px/Hulu Japan.png",
+    "file_256px": "256px/Hulu Japan.png"
+  },
+  {
+    "group_name": "Abema",
+    "group_kind": "select",
+    "icon_design": "Abema",
+    "original_file": "originals/Abema.png",
+    "file_512px": "512px/Abema.png",
+    "file_256px": "256px/Abema.png"
+  },
+  {
+    "group_name": "DMM",
+    "group_kind": "select",
+    "icon_design": "DMM",
+    "original_file": "originals/DMM.png",
+    "file_512px": "512px/DMM.png",
+    "file_256px": "256px/DMM.png"
+  },
+  {
+    "group_name": "日本影音",
+    "group_kind": "select",
+    "icon_design": "日本影音",
+    "original_file": "originals/日本影音.png",
+    "file_512px": "512px/日本影音.png",
+    "file_256px": "256px/日本影音.png"
+  },
+  {
+    "group_name": "Spotify",
+    "group_kind": "select",
+    "icon_design": "Spotify",
+    "original_file": "originals/Spotify.png",
+    "file_512px": "512px/Spotify.png",
+    "file_256px": "256px/Spotify.png"
+  },
+  {
+    "group_name": "TikTok",
+    "group_kind": "select",
+    "icon_design": "TikTok",
+    "original_file": "originals/TikTok.png",
+    "file_512px": "512px/TikTok.png",
+    "file_256px": "256px/TikTok.png"
+  },
+  {
+    "group_name": "Twitch",
+    "group_kind": "select",
+    "icon_design": "Twitch",
+    "original_file": "originals/Twitch.png",
+    "file_512px": "512px/Twitch.png",
+    "file_256px": "256px/Twitch.png"
+  },
+  {
+    "group_name": "Bilibili 港澳台",
+    "group_kind": "select",
+    "icon_design": "Bilibili 港澳台",
+    "original_file": "originals/Bilibili 港澳台.png",
+    "file_512px": "512px/Bilibili 港澳台.png",
+    "file_256px": "256px/Bilibili 港澳台.png"
+  },
+  {
+    "group_name": "Bahamut",
+    "group_kind": "select",
+    "icon_design": "Bahamut",
+    "original_file": "originals/Bahamut.png",
+    "file_512px": "512px/Bahamut.png",
+    "file_256px": "256px/Bahamut.png"
+  },
+  {
+    "group_name": "其他流媒体",
+    "group_kind": "select",
+    "icon_design": "其他流媒体",
+    "original_file": "originals/其他流媒体.png",
+    "file_512px": "512px/其他流媒体.png",
+    "file_256px": "256px/其他流媒体.png"
+  },
+  {
+    "group_name": "Telegram",
+    "group_kind": "select",
+    "icon_design": "Telegram",
+    "original_file": "originals/Telegram.png",
+    "file_512px": "512px/Telegram.png",
+    "file_256px": "256px/Telegram.png"
+  },
+  {
+    "group_name": "X",
+    "group_kind": "select",
+    "icon_design": "X",
+    "original_file": "originals/X.png",
+    "file_512px": "512px/X.png",
+    "file_256px": "256px/X.png"
+  },
+  {
+    "group_name": "Meta 社交",
+    "group_kind": "select",
+    "icon_design": "Meta 社交",
+    "original_file": "originals/Meta 社交.png",
+    "file_512px": "512px/Meta 社交.png",
+    "file_256px": "256px/Meta 社交.png"
+  },
+  {
+    "group_name": "WhatsApp",
+    "group_kind": "select",
+    "icon_design": "WhatsApp",
+    "original_file": "originals/WhatsApp.png",
+    "file_512px": "512px/WhatsApp.png",
+    "file_256px": "256px/WhatsApp.png"
+  },
+  {
+    "group_name": "LINE",
+    "group_kind": "select",
+    "icon_design": "LINE",
+    "original_file": "originals/LINE.png",
+    "file_512px": "512px/LINE.png",
+    "file_256px": "256px/LINE.png"
+  },
+  {
+    "group_name": "Discord",
+    "group_kind": "select",
+    "icon_design": "Discord",
+    "original_file": "originals/Discord.png",
+    "file_512px": "512px/Discord.png",
+    "file_256px": "256px/Discord.png"
+  },
+  {
+    "group_name": "Reddit",
+    "group_kind": "select",
+    "icon_design": "Reddit",
+    "original_file": "originals/Reddit.png",
+    "file_512px": "512px/Reddit.png",
+    "file_256px": "256px/Reddit.png"
+  },
+  {
+    "group_name": "LinkedIn",
+    "group_kind": "select",
+    "icon_design": "LinkedIn",
+    "original_file": "originals/LinkedIn.png",
+    "file_512px": "512px/LinkedIn.png",
+    "file_256px": "256px/LinkedIn.png"
+  },
+  {
+    "group_name": "Apple",
+    "group_kind": "select",
+    "icon_design": "Apple",
+    "original_file": "originals/Apple.png",
+    "file_512px": "512px/Apple.png",
+    "file_256px": "256px/Apple.png"
+  },
+  {
+    "group_name": "Apple Music/TV",
+    "group_kind": "select",
+    "icon_design": "Apple Music/TV",
+    "original_file": "originals/Apple Music／TV.png",
+    "file_512px": "512px/Apple Music／TV.png",
+    "file_256px": "256px/Apple Music／TV.png"
+  },
+  {
+    "group_name": "Google",
+    "group_kind": "select",
+    "icon_design": "Google",
+    "original_file": "originals/Google.png",
+    "file_512px": "512px/Google.png",
+    "file_256px": "256px/Google.png"
+  },
+  {
+    "group_name": "Microsoft",
+    "group_kind": "select",
+    "icon_design": "Microsoft",
+    "original_file": "originals/Microsoft.png",
+    "file_512px": "512px/Microsoft.png",
+    "file_256px": "256px/Microsoft.png"
+  },
+  {
+    "group_name": "GitHub",
+    "group_kind": "select",
+    "icon_design": "GitHub",
+    "original_file": "originals/GitHub.png",
+    "file_512px": "512px/GitHub.png",
+    "file_256px": "256px/GitHub.png"
+  },
+  {
+    "group_name": "开发下载",
+    "group_kind": "select",
+    "icon_design": "开发下载",
+    "original_file": "originals/开发下载.png",
+    "file_512px": "512px/开发下载.png",
+    "file_256px": "256px/开发下载.png"
+  },
+  {
+    "group_name": "远程控制",
+    "group_kind": "select",
+    "icon_design": "远程控制",
+    "original_file": "originals/远程控制.png",
+    "file_512px": "512px/远程控制.png",
+    "file_256px": "256px/远程控制.png"
+  },
+  {
+    "group_name": "PayPal",
+    "group_kind": "select",
+    "icon_design": "PayPal",
+    "original_file": "originals/PayPal.png",
+    "file_512px": "512px/PayPal.png",
+    "file_256px": "256px/PayPal.png"
+  },
+  {
+    "group_name": "广告拦截",
+    "group_kind": "select",
+    "icon_design": "广告拦截",
+    "original_file": "originals/广告拦截.png",
+    "file_512px": "512px/广告拦截.png",
+    "file_256px": "256px/广告拦截.png"
+  },
+  {
+    "group_name": "国内直连",
+    "group_kind": "select",
+    "icon_design": "国内直连",
+    "original_file": "originals/国内直连.png",
+    "file_512px": "512px/国内直连.png",
+    "file_256px": "256px/国内直连.png"
+  },
+  {
+    "group_name": "PayPal·美国固定",
+    "group_kind": "select",
+    "icon_design": "PayPal·美国固定",
+    "original_file": "originals/PayPal·美国固定.png",
+    "file_512px": "512px/PayPal·美国固定.png",
+    "file_256px": "256px/PayPal·美国固定.png"
+  },
+  {
+    "group_name": "Netflix·解锁入口",
+    "group_kind": "select",
+    "icon_design": "Netflix·解锁入口",
+    "original_file": "originals/Netflix·解锁入口.png",
+    "file_512px": "512px/Netflix·解锁入口.png",
+    "file_256px": "256px/Netflix·解锁入口.png"
+  },
+  {
+    "group_name": "香港",
+    "group_kind": "select",
+    "icon_design": "香港",
+    "original_file": "originals/香港.png",
+    "file_512px": "512px/香港.png",
+    "file_256px": "256px/香港.png"
+  },
+  {
+    "group_name": "日本",
+    "group_kind": "select",
+    "icon_design": "日本",
+    "original_file": "originals/日本.png",
+    "file_512px": "512px/日本.png",
+    "file_256px": "256px/日本.png"
+  },
+  {
+    "group_name": "韩国",
+    "group_kind": "select",
+    "icon_design": "韩国",
+    "original_file": "originals/韩国.png",
+    "file_512px": "512px/韩国.png",
+    "file_256px": "256px/韩国.png"
+  },
+  {
+    "group_name": "台湾",
+    "group_kind": "select",
+    "icon_design": "台湾",
+    "original_file": "originals/台湾.png",
+    "file_512px": "512px/台湾.png",
+    "file_256px": "256px/台湾.png"
+  },
+  {
+    "group_name": "新加坡",
+    "group_kind": "select",
+    "icon_design": "新加坡",
+    "original_file": "originals/新加坡.png",
+    "file_512px": "512px/新加坡.png",
+    "file_256px": "256px/新加坡.png"
+  },
+  {
+    "group_name": "美国",
+    "group_kind": "select",
+    "icon_design": "美国",
+    "original_file": "originals/美国.png",
+    "file_512px": "512px/美国.png",
+    "file_256px": "256px/美国.png"
+  },
+  {
+    "group_name": "其他地区",
+    "group_kind": "select",
+    "icon_design": "其他地区",
+    "original_file": "originals/其他地区.png",
+    "file_512px": "512px/其他地区.png",
+    "file_256px": "256px/其他地区.png"
+  },
+  {
+    "group_name": "香港·手动优先",
+    "group_kind": "fallback",
+    "icon_design": "手动优先",
+    "original_file": "originals/手动优先.png",
+    "file_512px": "512px/香港·手动优先.png",
+    "file_256px": "256px/香港·手动优先.png"
+  },
+  {
+    "group_name": "香港·手动",
+    "group_kind": "select",
+    "icon_design": "手动",
+    "original_file": "originals/手动.png",
+    "file_512px": "512px/香港·手动.png",
+    "file_256px": "256px/香港·手动.png"
+  },
+  {
+    "group_name": "香港·自动",
+    "group_kind": "url-test",
+    "icon_design": "自动",
+    "original_file": "originals/自动.png",
+    "file_512px": "512px/香港·自动.png",
+    "file_256px": "256px/香港·自动.png"
+  },
+  {
+    "group_name": "香港·故障转移",
+    "group_kind": "fallback",
+    "icon_design": "故障转移",
+    "original_file": "originals/故障转移.png",
+    "file_512px": "512px/香港·故障转移.png",
+    "file_256px": "256px/香港·故障转移.png"
+  },
+  {
+    "group_name": "香港·负载均衡",
+    "group_kind": "load-balance",
+    "icon_design": "负载均衡",
+    "original_file": "originals/负载均衡.png",
+    "file_512px": "512px/香港·负载均衡.png",
+    "file_256px": "256px/香港·负载均衡.png"
+  },
+  {
+    "group_name": "日本·手动优先",
+    "group_kind": "fallback",
+    "icon_design": "手动优先",
+    "original_file": "originals/手动优先.png",
+    "file_512px": "512px/日本·手动优先.png",
+    "file_256px": "256px/日本·手动优先.png"
+  },
+  {
+    "group_name": "日本·手动",
+    "group_kind": "select",
+    "icon_design": "手动",
+    "original_file": "originals/手动.png",
+    "file_512px": "512px/日本·手动.png",
+    "file_256px": "256px/日本·手动.png"
+  },
+  {
+    "group_name": "日本·自动",
+    "group_kind": "url-test",
+    "icon_design": "自动",
+    "original_file": "originals/自动.png",
+    "file_512px": "512px/日本·自动.png",
+    "file_256px": "256px/日本·自动.png"
+  },
+  {
+    "group_name": "日本·故障转移",
+    "group_kind": "fallback",
+    "icon_design": "故障转移",
+    "original_file": "originals/故障转移.png",
+    "file_512px": "512px/日本·故障转移.png",
+    "file_256px": "256px/日本·故障转移.png"
+  },
+  {
+    "group_name": "日本·负载均衡",
+    "group_kind": "load-balance",
+    "icon_design": "负载均衡",
+    "original_file": "originals/负载均衡.png",
+    "file_512px": "512px/日本·负载均衡.png",
+    "file_256px": "256px/日本·负载均衡.png"
+  },
+  {
+    "group_name": "韩国·手动优先",
+    "group_kind": "fallback",
+    "icon_design": "手动优先",
+    "original_file": "originals/手动优先.png",
+    "file_512px": "512px/韩国·手动优先.png",
+    "file_256px": "256px/韩国·手动优先.png"
+  },
+  {
+    "group_name": "韩国·手动",
+    "group_kind": "select",
+    "icon_design": "手动",
+    "original_file": "originals/手动.png",
+    "file_512px": "512px/韩国·手动.png",
+    "file_256px": "256px/韩国·手动.png"
+  },
+  {
+    "group_name": "韩国·自动",
+    "group_kind": "url-test",
+    "icon_design": "自动",
+    "original_file": "originals/自动.png",
+    "file_512px": "512px/韩国·自动.png",
+    "file_256px": "256px/韩国·自动.png"
+  },
+  {
+    "group_name": "韩国·故障转移",
+    "group_kind": "fallback",
+    "icon_design": "故障转移",
+    "original_file": "originals/故障转移.png",
+    "file_512px": "512px/韩国·故障转移.png",
+    "file_256px": "256px/韩国·故障转移.png"
+  },
+  {
+    "group_name": "韩国·负载均衡",
+    "group_kind": "load-balance",
+    "icon_design": "负载均衡",
+    "original_file": "originals/负载均衡.png",
+    "file_512px": "512px/韩国·负载均衡.png",
+    "file_256px": "256px/韩国·负载均衡.png"
+  },
+  {
+    "group_name": "台湾·手动优先",
+    "group_kind": "fallback",
+    "icon_design": "手动优先",
+    "original_file": "originals/手动优先.png",
+    "file_512px": "512px/台湾·手动优先.png",
+    "file_256px": "256px/台湾·手动优先.png"
+  },
+  {
+    "group_name": "台湾·手动",
+    "group_kind": "select",
+    "icon_design": "手动",
+    "original_file": "originals/手动.png",
+    "file_512px": "512px/台湾·手动.png",
+    "file_256px": "256px/台湾·手动.png"
+  },
+  {
+    "group_name": "台湾·自动",
+    "group_kind": "url-test",
+    "icon_design": "自动",
+    "original_file": "originals/自动.png",
+    "file_512px": "512px/台湾·自动.png",
+    "file_256px": "256px/台湾·自动.png"
+  },
+  {
+    "group_name": "台湾·故障转移",
+    "group_kind": "fallback",
+    "icon_design": "故障转移",
+    "original_file": "originals/故障转移.png",
+    "file_512px": "512px/台湾·故障转移.png",
+    "file_256px": "256px/台湾·故障转移.png"
+  },
+  {
+    "group_name": "台湾·负载均衡",
+    "group_kind": "load-balance",
+    "icon_design": "负载均衡",
+    "original_file": "originals/负载均衡.png",
+    "file_512px": "512px/台湾·负载均衡.png",
+    "file_256px": "256px/台湾·负载均衡.png"
+  },
+  {
+    "group_name": "新加坡·手动优先",
+    "group_kind": "fallback",
+    "icon_design": "手动优先",
+    "original_file": "originals/手动优先.png",
+    "file_512px": "512px/新加坡·手动优先.png",
+    "file_256px": "256px/新加坡·手动优先.png"
+  },
+  {
+    "group_name": "新加坡·手动",
+    "group_kind": "select",
+    "icon_design": "手动",
+    "original_file": "originals/手动.png",
+    "file_512px": "512px/新加坡·手动.png",
+    "file_256px": "256px/新加坡·手动.png"
+  },
+  {
+    "group_name": "新加坡·自动",
+    "group_kind": "url-test",
+    "icon_design": "自动",
+    "original_file": "originals/自动.png",
+    "file_512px": "512px/新加坡·自动.png",
+    "file_256px": "256px/新加坡·自动.png"
+  },
+  {
+    "group_name": "新加坡·故障转移",
+    "group_kind": "fallback",
+    "icon_design": "故障转移",
+    "original_file": "originals/故障转移.png",
+    "file_512px": "512px/新加坡·故障转移.png",
+    "file_256px": "256px/新加坡·故障转移.png"
+  },
+  {
+    "group_name": "新加坡·负载均衡",
+    "group_kind": "load-balance",
+    "icon_design": "负载均衡",
+    "original_file": "originals/负载均衡.png",
+    "file_512px": "512px/新加坡·负载均衡.png",
+    "file_256px": "256px/新加坡·负载均衡.png"
+  },
+  {
+    "group_name": "美国·手动优先",
+    "group_kind": "fallback",
+    "icon_design": "手动优先",
+    "original_file": "originals/手动优先.png",
+    "file_512px": "512px/美国·手动优先.png",
+    "file_256px": "256px/美国·手动优先.png"
+  },
+  {
+    "group_name": "美国·手动",
+    "group_kind": "select",
+    "icon_design": "手动",
+    "original_file": "originals/手动.png",
+    "file_512px": "512px/美国·手动.png",
+    "file_256px": "256px/美国·手动.png"
+  },
+  {
+    "group_name": "美国·自动",
+    "group_kind": "url-test",
+    "icon_design": "自动",
+    "original_file": "originals/自动.png",
+    "file_512px": "512px/美国·自动.png",
+    "file_256px": "256px/美国·自动.png"
+  },
+  {
+    "group_name": "美国·故障转移",
+    "group_kind": "fallback",
+    "icon_design": "故障转移",
+    "original_file": "originals/故障转移.png",
+    "file_512px": "512px/美国·故障转移.png",
+    "file_256px": "256px/美国·故障转移.png"
+  },
+  {
+    "group_name": "美国·负载均衡",
+    "group_kind": "load-balance",
+    "icon_design": "负载均衡",
+    "original_file": "originals/负载均衡.png",
+    "file_512px": "512px/美国·负载均衡.png",
+    "file_256px": "256px/美国·负载均衡.png"
+  },
+  {
+    "group_name": "DIRECT",
+    "group_kind": "direct",
+    "icon_design": "DIRECT",
+    "original_file": "originals/DIRECT.png",
+    "file_512px": "512px/DIRECT.png",
+    "file_256px": "256px/DIRECT.png"
+  },
+  {
+    "group_name": "无可用节点",
+    "group_kind": "block",
+    "icon_design": "无可用节点",
+    "original_file": "originals/无可用节点.png",
+    "file_512px": "512px/无可用节点.png",
+    "file_256px": "256px/无可用节点.png"
+  },
+  {
+    "group_name": "REJECT",
+    "group_kind": "builtin",
+    "icon_design": "REJECT",
+    "original_file": "originals/REJECT.png",
+    "file_512px": "512px/REJECT.png",
+    "file_256px": "256px/REJECT.png"
+  }
+]

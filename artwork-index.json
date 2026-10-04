@@ -1,0 +1,651 @@
+[
+  {
+    "number": 1,
+    "name": "国外默认",
+    "category": "基础",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "0e0e72438eebe03e1d6945dd501df54cf7b218925e1b236f5a54560a652c6103",
+    "original_file": "originals/国外默认.png"
+  },
+  {
+    "number": 2,
+    "name": "OpenAI",
+    "category": "AI",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "cccaada84c1ec25aa6dd2b66e2977daebd29a0659b8ac124d8515aafc7b1a05b",
+    "original_file": "originals/OpenAI.png"
+  },
+  {
+    "number": 3,
+    "name": "Claude",
+    "category": "AI",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "58f67dc2df44dea4ce9e0a3a047e2ca84ceaa5938415e9c1bd269959b7883176",
+    "original_file": "originals/Claude.png"
+  },
+  {
+    "number": 4,
+    "name": "Grok",
+    "category": "AI",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "1de44fa7fd45785c08796b3c2c47b7681d0a97507fedcd2371a492e7a7dba813",
+    "original_file": "originals/Grok.png"
+  },
+  {
+    "number": 5,
+    "name": "Google AI",
+    "category": "AI",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "cda523d699064b94302f30a2cd2e166386bbe0ac52f46d391c46aa64b3e97ba7",
+    "original_file": "originals/Google AI.png"
+  },
+  {
+    "number": 6,
+    "name": "Copilot",
+    "category": "AI",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "2fd3300f3b1478a4745a135c2875022d28d545ea4c158ada16641e69a7cf0c74",
+    "original_file": "originals/Copilot.png"
+  },
+  {
+    "number": 7,
+    "name": "Apple AI",
+    "category": "AI",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "a2499e483f415aaaa21950bdf7c363388e3987fe39c5acce74fcee0af98b6054",
+    "original_file": "originals/Apple AI.png"
+  },
+  {
+    "number": 8,
+    "name": "其他 AI",
+    "category": "AI",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "823177fe5e479803505609d933dae6ff9ff453e04067525a9656efd6576da946",
+    "original_file": "originals/其他 AI.png"
+  },
+  {
+    "number": 9,
+    "name": "YouTube",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "e29d1816a42e0077cdf8583f4aae75e5c80f6040b256f17243c4a7d8c30a9aae",
+    "original_file": "originals/YouTube.png"
+  },
+  {
+    "number": 10,
+    "name": "Netflix",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "53133fe3ed9672551def38eaf4c06a518aecbb9f47f06b933903adde8298cb32",
+    "original_file": "originals/Netflix.png"
+  },
+  {
+    "number": 11,
+    "name": "Disney+",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "51b1d6c636c0fd4e52c87a48a897ff28d0c7773d8b7ed71bdf5d7164b3ccc8a4",
+    "original_file": "originals/Disney+.png"
+  },
+  {
+    "number": 12,
+    "name": "Max",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "58b3d4e1309b7d98f628011cea54b9766605a9ec504334a30fde7636a5707a56",
+    "original_file": "originals/Max.png"
+  },
+  {
+    "number": 13,
+    "name": "Prime Video",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "dd83c0be3f3e5534e50ec1b951d289b0fa00c0d2a99427d53b0aeaa878e7028f",
+    "original_file": "originals/Prime Video.png"
+  },
+  {
+    "number": 14,
+    "name": "Hulu US",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "2e8bf7bbceebaa5717b850c4434c9307ad1904e16eb33e7928fff3a297bde5f7",
+    "original_file": "originals/Hulu US.png"
+  },
+  {
+    "number": 15,
+    "name": "Hulu Japan",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "b1234bd91a8cad36520b150a4429e4bc8186fde990a5d27639054496f73a3cb8",
+    "original_file": "originals/Hulu Japan.png"
+  },
+  {
+    "number": 16,
+    "name": "Abema",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "69851c8e614a54f68d30c2af5fd8dfe250775473450c1623e43eaafc6881801f",
+    "original_file": "originals/Abema.png"
+  },
+  {
+    "number": 17,
+    "name": "DMM",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "c7d9e7c7ca1fcf97f358c2c551d5122013546d9678cd3f8d085faea0e06ba20a",
+    "original_file": "originals/DMM.png"
+  },
+  {
+    "number": 18,
+    "name": "日本影音",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "9626de973e5492c492ec69ab2365f11a598fe13709e09156f98dde0462396c10",
+    "original_file": "originals/日本影音.png"
+  },
+  {
+    "number": 19,
+    "name": "Spotify",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "72ad65861ca5ecb939792d4a075119444bebe6607633d4c642ed86837ea6ca36",
+    "original_file": "originals/Spotify.png"
+  },
+  {
+    "number": 20,
+    "name": "TikTok",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "70ad54850201f0f932599f4598ea1fe5e9effb6c4f65b6cf2a113b5345dd1062",
+    "original_file": "originals/TikTok.png"
+  },
+  {
+    "number": 21,
+    "name": "Twitch",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "78c1068a120f417fb1bf7816ca2215e8398043f50b475478bdfb27ef1f0bfb52",
+    "original_file": "originals/Twitch.png"
+  },
+  {
+    "number": 22,
+    "name": "Bilibili 港澳台",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "c26ad60c96f0ee5516f5e53bd49fc00a63a6e6d0253aa213ed2e334fa0c38e2f",
+    "original_file": "originals/Bilibili 港澳台.png"
+  },
+  {
+    "number": 23,
+    "name": "Bahamut",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "80066ffce3565ec018ab66e805376bafc34c864a1613c84dd4b01d995d2279bb",
+    "original_file": "originals/Bahamut.png"
+  },
+  {
+    "number": 24,
+    "name": "其他流媒体",
+    "category": "流媒体",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "bb639123b1f1304aa346fccf10c4fb9a68052aa5dc21d7842e945540cd8e6eee",
+    "original_file": "originals/其他流媒体.png"
+  },
+  {
+    "number": 25,
+    "name": "Telegram",
+    "category": "社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "0eddbf186c2696f80717c35e9407665791e4e5cc41bc72db9e2b9346fffa3288",
+    "original_file": "originals/Telegram.png"
+  },
+  {
+    "number": 26,
+    "name": "X",
+    "category": "社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "635060a791af97a253ee5f381e77a5bf59c2a5971afa78afefe94d588a74d295",
+    "original_file": "originals/X.png"
+  },
+  {
+    "number": 27,
+    "name": "Meta 社交",
+    "category": "社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "a74b1bbc21bb9f52e7fe9d6c2c79207bd24162417002055b4c22f97872825f08",
+    "original_file": "originals/Meta 社交.png"
+  },
+  {
+    "number": 28,
+    "name": "WhatsApp",
+    "category": "社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "f043019e3443feab9cf9a9cfe9bd46c358c4aa0db94771b9bdc3661ead1869db",
+    "original_file": "originals/WhatsApp.png"
+  },
+  {
+    "number": 29,
+    "name": "LINE",
+    "category": "社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "5b0d8a8798327beaf4f7ee674dcc3deaf543cfaf80d39eaa6bf42793753f4168",
+    "original_file": "originals/LINE.png"
+  },
+  {
+    "number": 30,
+    "name": "Discord",
+    "category": "社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "b36d741a936f9922f179f8493f9394224049810376062d6f592f62dbeb1d1737",
+    "original_file": "originals/Discord.png"
+  },
+  {
+    "number": 31,
+    "name": "Reddit",
+    "category": "社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "6dfa3a31ea663e7d8f75e0b592ea65e1b2cee0124295730979f5fbbcd2f49340",
+    "original_file": "originals/Reddit.png"
+  },
+  {
+    "number": 32,
+    "name": "LinkedIn",
+    "category": "职业社交",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "38b60e42ac7c29717bc50dfa5ac362eb051fbc83cbaf1c8363649b6c040738bc",
+    "original_file": "originals/LinkedIn.png"
+  },
+  {
+    "number": 33,
+    "name": "Apple",
+    "category": "大厂",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "5f6d34d1f0ce2b2332b126e1f4521522732e3db8a5e0831587f95797009ab274",
+    "original_file": "originals/Apple.png"
+  },
+  {
+    "number": 34,
+    "name": "Apple Music/TV",
+    "category": "大厂",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "4e43ee7fd9d230590b7e5862f526472bfdb4b4ccb26e24f66d78b15f87b93cc1",
+    "original_file": "originals/Apple Music／TV.png"
+  },
+  {
+    "number": 35,
+    "name": "Google",
+    "category": "大厂",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "58a94db9935d144cc4d10c55b452727f5a8d4e6078df2ad7a18378c703228748",
+    "original_file": "originals/Google.png"
+  },
+  {
+    "number": 36,
+    "name": "Microsoft",
+    "category": "大厂",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "9ad2d662fe76c6834364ae476bbecb7d3016f300dc4458464522606300433b68",
+    "original_file": "originals/Microsoft.png"
+  },
+  {
+    "number": 37,
+    "name": "GitHub",
+    "category": "大厂",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "30d703eb09823443d4aa93255d2aee7436131fc79980f8c860e9d1055d1f923f",
+    "original_file": "originals/GitHub.png"
+  },
+  {
+    "number": 38,
+    "name": "开发下载",
+    "category": "开发",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "ba933369da7d14ce78255d21b1e38860caf809e85b6f34a153bc91795acd4a53",
+    "original_file": "originals/开发下载.png"
+  },
+  {
+    "number": 39,
+    "name": "远程控制",
+    "category": "管理",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "ebf3bbc4747c0b48c85dc7bcedb0f6d11dac370cacb49819609da99221a8e27e",
+    "original_file": "originals/远程控制.png"
+  },
+  {
+    "number": 40,
+    "name": "PayPal",
+    "category": "支付",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "d64faae0f8eb3f1689fe0864af9be3b71e17605a8584878885f3d2c9c1bb24ec",
+    "original_file": "originals/PayPal.png"
+  },
+  {
+    "number": 41,
+    "name": "广告拦截",
+    "category": "基础",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "b49cb6ec30e9e12b44c6848c5f3c6a11d1b10bd3fcfdd8ad41fc2d2aba94b6a4",
+    "original_file": "originals/广告拦截.png"
+  },
+  {
+    "number": 42,
+    "name": "国内直连",
+    "category": "基础",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "8b2410ac0a11423aba302f347c82a8d5bb8b866f7a206556f8c4d0c57d9993dd",
+    "original_file": "originals/国内直连.png"
+  },
+  {
+    "number": 43,
+    "name": "香港",
+    "category": "地区",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "42d9a51cfbcc1ef9d15fa17adb91470d89e791bc58c1c9ac6727d343d3983f15",
+    "original_file": "originals/香港.png"
+  },
+  {
+    "number": 44,
+    "name": "日本",
+    "category": "地区",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "4f70ff1598bc04fc0687bd88412c736ca40e0a4f7da8e7f7ffbba69d6b34e780",
+    "original_file": "originals/日本.png"
+  },
+  {
+    "number": 45,
+    "name": "韩国",
+    "category": "地区",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "5a0e47f2e36f22191ddacb1e7c24437a125976f579f64677ca9906450bdcfc3e",
+    "original_file": "originals/韩国.png"
+  },
+  {
+    "number": 46,
+    "name": "台湾",
+    "category": "地区",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "d4c00a6d262809a4c802c18a44263105231820d2870e591b0d442863c773dc90",
+    "original_file": "originals/台湾.png"
+  },
+  {
+    "number": 47,
+    "name": "新加坡",
+    "category": "地区",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "9f6f8cb8cebb36959851046a78d16b1a7502054c21fb527916f4bdb044913098",
+    "original_file": "originals/新加坡.png"
+  },
+  {
+    "number": 48,
+    "name": "美国",
+    "category": "地区",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "74eaf086f74a9b2fb2769515cd36d770bbea3b215656c0a388d178e7d2b61a0c",
+    "original_file": "originals/美国.png"
+  },
+  {
+    "number": 49,
+    "name": "其他地区",
+    "category": "地区",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "07956ca5842dd42851387b9f60ed42fb24c381005e3a04b8b2c8d7e97242d07a",
+    "original_file": "originals/其他地区.png"
+  },
+  {
+    "number": 50,
+    "name": "自动",
+    "category": "模式",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "b76a9602c29ed68b6596191ece7b3365f0bf2f51a0d38ef74428c739acd3c8c2",
+    "original_file": "originals/自动.png"
+  },
+  {
+    "number": 51,
+    "name": "故障转移",
+    "category": "模式",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "36ff4a8506ed9c24a937ca8c4bf4f30f93d3cab8b48ee7b169ef3ba1325d950a",
+    "original_file": "originals/故障转移.png"
+  },
+  {
+    "number": 52,
+    "name": "手动",
+    "category": "模式",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "5097beeb9a69533d8de961f11b045b2303b9d238ffa8dda47b98c2e13e650229",
+    "original_file": "originals/手动.png"
+  },
+  {
+    "number": 53,
+    "name": "手动优先",
+    "category": "模式",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "a6af9a365b9c5a669f135d900db65b4fc2cdd1be8c22b5134de2d838129c4bac",
+    "original_file": "originals/手动优先.png"
+  },
+  {
+    "number": 54,
+    "name": "负载均衡",
+    "category": "模式",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "8c8462168bde3289f76b1706a1d233e94bb58693ebfc759994b861059a5bfcb7",
+    "original_file": "originals/负载均衡.png"
+  },
+  {
+    "number": 55,
+    "name": "PayPal·美国固定",
+    "category": "专用入口",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "bcf43c2601287d4f1c722591a542fc6dbcd4b52a7f3079ed7e0ca6911c0fd2ef",
+    "original_file": "originals/PayPal·美国固定.png"
+  },
+  {
+    "number": 56,
+    "name": "Netflix·解锁入口",
+    "category": "专用入口",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "274a3b89fd9c17ba48f20f36d633daf9262f22df0844b6ffdc8389bae2bbb7bb",
+    "original_file": "originals/Netflix·解锁入口.png"
+  },
+  {
+    "number": 57,
+    "name": "DIRECT",
+    "category": "基础动作",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "d5fb97f4e4644de9d3803da6b3c14b6b31510dc129d83cb01cca9528f3055113",
+    "original_file": "originals/DIRECT.png"
+  },
+  {
+    "number": 58,
+    "name": "REJECT",
+    "category": "基础动作",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "249bce8638b6d4b7980b5b41b7aa593fd2c69c0518473ab6a25e8f931f3148e8",
+    "original_file": "originals/REJECT.png"
+  },
+  {
+    "number": 59,
+    "name": "无可用节点",
+    "category": "基础动作",
+    "original_size": [
+      1254,
+      1254
+    ],
+    "sha256": "8585b23a28e586fb96add62cf15405019465e54cf5645e7630c513dac9de7566",
+    "original_file": "originals/无可用节点.png"
+  }
+]

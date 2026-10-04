@@ -1,0 +1,85 @@
+﻿配置原名,策略类型,采用图案,512px文件,256px文件,原图文件
+国外默认,select,国外默认,512px/国外默认.png,256px/国外默认.png,originals/国外默认.png
+OpenAI,select,OpenAI,512px/OpenAI.png,256px/OpenAI.png,originals/OpenAI.png
+Claude,select,Claude,512px/Claude.png,256px/Claude.png,originals/Claude.png
+Grok,select,Grok,512px/Grok.png,256px/Grok.png,originals/Grok.png
+Google AI,select,Google AI,512px/Google AI.png,256px/Google AI.png,originals/Google AI.png
+Copilot,select,Copilot,512px/Copilot.png,256px/Copilot.png,originals/Copilot.png
+Apple AI,select,Apple AI,512px/Apple AI.png,256px/Apple AI.png,originals/Apple AI.png
+其他 AI,select,其他 AI,512px/其他 AI.png,256px/其他 AI.png,originals/其他 AI.png
+YouTube,select,YouTube,512px/YouTube.png,256px/YouTube.png,originals/YouTube.png
+Netflix,select,Netflix,512px/Netflix.png,256px/Netflix.png,originals/Netflix.png
+Disney+,select,Disney+,512px/Disney+.png,256px/Disney+.png,originals/Disney+.png
+Max,select,Max,512px/Max.png,256px/Max.png,originals/Max.png
+Prime Video,select,Prime Video,512px/Prime Video.png,256px/Prime Video.png,originals/Prime Video.png
+Hulu US,select,Hulu US,512px/Hulu US.png,256px/Hulu US.png,originals/Hulu US.png
+Hulu Japan,select,Hulu Japan,512px/Hulu Japan.png,256px/Hulu Japan.png,originals/Hulu Japan.png
+Abema,select,Abema,512px/Abema.png,256px/Abema.png,originals/Abema.png
+DMM,select,DMM,512px/DMM.png,256px/DMM.png,originals/DMM.png
+日本影音,select,日本影音,512px/日本影音.png,256px/日本影音.png,originals/日本影音.png
+Spotify,select,Spotify,512px/Spotify.png,256px/Spotify.png,originals/Spotify.png
+TikTok,select,TikTok,512px/TikTok.png,256px/TikTok.png,originals/TikTok.png
+Twitch,select,Twitch,512px/Twitch.png,256px/Twitch.png,originals/Twitch.png
+Bilibili 港澳台,select,Bilibili 港澳台,512px/Bilibili 港澳台.png,256px/Bilibili 港澳台.png,originals/Bilibili 港澳台.png
+Bahamut,select,Bahamut,512px/Bahamut.png,256px/Bahamut.png,originals/Bahamut.png
+其他流媒体,select,其他流媒体,512px/其他流媒体.png,256px/其他流媒体.png,originals/其他流媒体.png
+Telegram,select,Telegram,512px/Telegram.png,256px/Telegram.png,originals/Telegram.png
+X,select,X,512px/X.png,256px/X.png,originals/X.png
+Meta 社交,select,Meta 社交,512px/Meta 社交.png,256px/Meta 社交.png,originals/Meta 社交.png
+WhatsApp,select,WhatsApp,512px/WhatsApp.png,256px/WhatsApp.png,originals/WhatsApp.png
+LINE,select,LINE,512px/LINE.png,256px/LINE.png,originals/LINE.png
+Discord,select,Discord,512px/Discord.png,256px/Discord.png,originals/Discord.png
+Reddit,select,Reddit,512px/Reddit.png,256px/Reddit.png,originals/Reddit.png
+LinkedIn,select,LinkedIn,512px/LinkedIn.png,256px/LinkedIn.png,originals/LinkedIn.png
+Apple,select,Apple,512px/Apple.png,256px/Apple.png,originals/Apple.png
+Apple Music/TV,select,Apple Music/TV,512px/Apple Music／TV.png,256px/Apple Music／TV.png,originals/Apple Music／TV.png
+Google,select,Google,512px/Google.png,256px/Google.png,originals/Google.png
+Microsoft,select,Microsoft,512px/Microsoft.png,256px/Microsoft.png,originals/Microsoft.png
+GitHub,select,GitHub,512px/GitHub.png,256px/GitHub.png,originals/GitHub.png
+开发下载,select,开发下载,512px/开发下载.png,256px/开发下载.png,originals/开发下载.png
+远程控制,select,远程控制,512px/远程控制.png,256px/远程控制.png,originals/远程控制.png
+PayPal,select,PayPal,512px/PayPal.png,256px/PayPal.png,originals/PayPal.png
+广告拦截,select,广告拦截,512px/广告拦截.png,256px/广告拦截.png,originals/广告拦截.png
+国内直连,select,国内直连,512px/国内直连.png,256px/国内直连.png,originals/国内直连.png
+PayPal·美国固定,select,PayPal·美国固定,512px/PayPal·美国固定.png,256px/PayPal·美国固定.png,originals/PayPal·美国固定.png
+Netflix·解锁入口,select,Netflix·解锁入口,512px/Netflix·解锁入口.png,256px/Netflix·解锁入口.png,originals/Netflix·解锁入口.png
+香港,select,香港,512px/香港.png,256px/香港.png,originals/香港.png
+日本,select,日本,512px/日本.png,256px/日本.png,originals/日本.png
+韩国,select,韩国,512px/韩国.png,256px/韩国.png,originals/韩国.png
+台湾,select,台湾,512px/台湾.png,256px/台湾.png,originals/台湾.png
+新加坡,select,新加坡,512px/新加坡.png,256px/新加坡.png,originals/新加坡.png
+美国,select,美国,512px/美国.png,256px/美国.png,originals/美国.png
+其他地区,select,其他地区,512px/其他地区.png,256px/其他地区.png,originals/其他地区.png
+香港·手动优先,fallback,手动优先,512px/香港·手动优先.png,256px/香港·手动优先.png,originals/手动优先.png
+香港·手动,select,手动,512px/香港·手动.png,256px/香港·手动.png,originals/手动.png
+香港·自动,url-test,自动,512px/香港·自动.png,256px/香港·自动.png,originals/自动.png
+香港·故障转移,fallback,故障转移,512px/香港·故障转移.png,256px/香港·故障转移.png,originals/故障转移.png
+香港·负载均衡,load-balance,负载均衡,512px/香港·负载均衡.png,256px/香港·负载均衡.png,originals/负载均衡.png
+日本·手动优先,fallback,手动优先,512px/日本·手动优先.png,256px/日本·手动优先.png,originals/手动优先.png
+日本·手动,select,手动,512px/日本·手动.png,256px/日本·手动.png,originals/手动.png
+日本·自动,url-test,自动,512px/日本·自动.png,256px/日本·自动.png,originals/自动.png
+日本·故障转移,fallback,故障转移,512px/日本·故障转移.png,256px/日本·故障转移.png,originals/故障转移.png
+日本·负载均衡,load-balance,负载均衡,512px/日本·负载均衡.png,256px/日本·负载均衡.png,originals/负载均衡.png
+韩国·手动优先,fallback,手动优先,512px/韩国·手动优先.png,256px/韩国·手动优先.png,originals/手动优先.png
+韩国·手动,select,手动,512px/韩国·手动.png,256px/韩国·手动.png,originals/手动.png
+韩国·自动,url-test,自动,512px/韩国·自动.png,256px/韩国·自动.png,originals/自动.png
+韩国·故障转移,fallback,故障转移,512px/韩国·故障转移.png,256px/韩国·故障转移.png,originals/故障转移.png
+韩国·负载均衡,load-balance,负载均衡,512px/韩国·负载均衡.png,256px/韩国·负载均衡.png,originals/负载均衡.png
+台湾·手动优先,fallback,手动优先,512px/台湾·手动优先.png,256px/台湾·手动优先.png,originals/手动优先.png
+台湾·手动,select,手动,512px/台湾·手动.png,256px/台湾·手动.png,originals/手动.png
+台湾·自动,url-test,自动,512px/台湾·自动.png,256px/台湾·自动.png,originals/自动.png
+台湾·故障转移,fallback,故障转移,512px/台湾·故障转移.png,256px/台湾·故障转移.png,originals/故障转移.png
+台湾·负载均衡,load-balance,负载均衡,512px/台湾·负载均衡.png,256px/台湾·负载均衡.png,originals/负载均衡.png
+新加坡·手动优先,fallback,手动优先,512px/新加坡·手动优先.png,256px/新加坡·手动优先.png,originals/手动优先.png
+新加坡·手动,select,手动,512px/新加坡·手动.png,256px/新加坡·手动.png,originals/手动.png
+新加坡·自动,url-test,自动,512px/新加坡·自动.png,256px/新加坡·自动.png,originals/自动.png
+新加坡·故障转移,fallback,故障转移,512px/新加坡·故障转移.png,256px/新加坡·故障转移.png,originals/故障转移.png
+新加坡·负载均衡,load-balance,负载均衡,512px/新加坡·负载均衡.png,256px/新加坡·负载均衡.png,originals/负载均衡.png
+美国·手动优先,fallback,手动优先,512px/美国·手动优先.png,256px/美国·手动优先.png,originals/手动优先.png
+美国·手动,select,手动,512px/美国·手动.png,256px/美国·手动.png,originals/手动.png
+美国·自动,url-test,自动,512px/美国·自动.png,256px/美国·自动.png,originals/自动.png
+美国·故障转移,fallback,故障转移,512px/美国·故障转移.png,256px/美国·故障转移.png,originals/故障转移.png
+美国·负载均衡,load-balance,负载均衡,512px/美国·负载均衡.png,256px/美国·负载均衡.png,originals/负载均衡.png
+DIRECT,direct,DIRECT,512px/DIRECT.png,256px/DIRECT.png,originals/DIRECT.png
+无可用节点,block,无可用节点,512px/无可用节点.png,256px/无可用节点.png,originals/无可用节点.png
+REJECT,builtin,REJECT,512px/REJECT.png,256px/REJECT.png,originals/REJECT.png
