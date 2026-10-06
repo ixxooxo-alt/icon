@@ -1,15 +1,25 @@
 # iOS 风格 3D 玻璃分流图标
 
-**全部图标与预览已完整发布。** 59 个独立图案覆盖原代码的全部 81 个策略分组，另含 DIRECT、REJECT、无可用节点，共 84 个命名文件。没有修改或接入分流配置。
+**基础图标包与预览已完整发布，并新增 Apple Push 蓝色铃铛图标。** 基础包的 59 个独立图案覆盖原代码的全部 81 个策略分组，另含 DIRECT、REJECT、无可用节点。新增 Apple Push 后，256px 与 512px 目录各有 85 个命名文件。没有修改或接入分流配置。
 
-[下载完整图标包 ZIP](https://github.com/ixxooxo-alt/icon/releases) · [图片直链 CSV](icon-urls.csv) · [图片直链 JSON](icon-urls.json) · [精确分组映射](group-icon-map.json)
+[下载基础图标包 ZIP（v1.0.0）](https://github.com/ixxooxo-alt/icon/releases) · [图片直链 CSV](icon-urls.csv) · [图片直链 JSON](icon-urls.json) · [精确分组映射](group-icon-map.json)
 
 | 内容 | 已发布 | 目录 |
 | --- | ---: | --- |
-| 256px 透明 PNG | 84 / 84 | [256px](256px/) |
-| 512px 透明 PNG | 84 / 84 | [512px](512px/) |
+| 256px 透明 PNG | 85 / 85 | [256px](256px/) |
+| 512px 透明 PNG | 85 / 85 | [512px](512px/) |
 | 生成原图 | 59 / 59 | [originals](originals/) |
 | 总览与地区模式预览 | PNG + JPG | [previews](previews/) |
+
+## Apple Push（新增）
+
+采用第二款青蓝色玻璃铃铛图案，文件名为 `Apple Push.png`。
+
+![Apple Push 蓝色铃铛](512px/Apple%20Push.png)
+
+[256px PNG](https://raw.githubusercontent.com/ixxooxo-alt/icon/main/256px/Apple%20Push.png) · [512px PNG](https://raw.githubusercontent.com/ixxooxo-alt/icon/main/512px/Apple%20Push.png)
+
+基础 ZIP、总览和映射文件对应原 84 个命名文件；本次新增图标从上面的链接单独获取。
 
 ## 全部图标总览
 
@@ -25,7 +35,7 @@
 
 ## 命名与使用
 
-256px、512px 和原图直链均已发布。所有 227 张图标 PNG 已核对 Git 文件哈希，与本地成品一致。
+256px、512px 和原图直链均已发布。基础包的 227 张图标 PNG 与新增 Apple Push 的两张尺寸文件均已核对 Git 文件哈希，与本地成品一致。
 
 ```text
 https://raw.githubusercontent.com/ixxooxo-alt/icon/main/512px/OpenAI.png
